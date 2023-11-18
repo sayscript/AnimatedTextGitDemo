@@ -2,7 +2,7 @@ function randomRBG(){
 const r = Math.floor(Math.random()*256);
 const g = 0;
 const b = Math.floor(Math.random()*256);
-return `rgb(${r},${b},${b})`
+return `rgb(${r},${g},${b})`
 }
 
 //var document: Document
